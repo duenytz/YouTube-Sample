@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="video_title_size">13sp</dimen>
+    <dimen name="video_published_at_size">12sp</dimen>
+    <dimen name="video_description_size">12sp</dimen>
+    <dimen name="youtube_info_text_size">20sp</dimen>
+</resources>

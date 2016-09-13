@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YouTube Searcher</string>
+    <string name="menu_search">Search&#8230;</string>
+    <string name="video_loading_error">There was an error loading the video</string>
+    <string name="no_results_error">No results found</string>
+    <string name="published_text">Published: %s</string>
+
+    <string name="youtube_search_url">https://www.googleapis.com/youtube/v3/search/</string>
+    <string name="youtube_video_url">https://www.youtube.com/watch?v=%s</string>
+
+    <!--We need to find out a secure mechanism to store this key-->
+    <string name="youtube_key">AIzaSyDl7azwmnhqD3Gi2hkn-p8NBPKW6th6NFo</string>
+    <string name="initial_advice_text">Search for videos above!</string>
+</resources>
